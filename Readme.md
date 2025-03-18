@@ -16,7 +16,7 @@ Postman - Ferramenta para testar os endpoints da API.
 ⚙️ Instalação e Execução
 1️⃣ Clone este repositório:
 
-git clone https://github.com/Andregr99/Clima_APP.git
+git clone https://github.com/Andregr99/Flask-Book-API.git
 
 
 2️⃣ Instale as dependências:
