@@ -3,17 +3,27 @@ Esta é uma API REST simples criada com Python e Flask para gerenciar informaç�
 
 ⚙️ Funcionalidades
 ✅ Consultar todos os livros: Retorna uma lista com todos os livros cadastrados.
+
 ✅ Consultar um livro por ID: Retorna as informações de um livro específico com base no seu ID.
+
 ✅ Adicionar um novo livro: Permite adicionar um novo livro à lista.
+
 ✅Editar um livro existente: Permite atualizar as informações de um livro existente.
+
 ✅Excluir um livro: Permite remover um livro da lista.
 
+
 🚀 Tecnologias Utilizadas
+
 Python 3.10+
+
 Flask - Framework web para criação da API.
+
 Postman - Ferramenta para testar os endpoints da API.
 
+
 ⚙️ Instalação e Execução
+
 1️⃣ Clone este repositório:
 
 git clone https://github.com/Andregr99/Flask-Book-API.git
