@@ -3,6 +3,7 @@
 Esta é uma API REST simples criada com Python e Flask para gerenciar informações de livros. Ela permite consultar, adicionar, editar e excluir livros através de requisições HTTP.
 
 ⚙️ Funcionalidades
+
 ✅ Consultar todos os livros: Retorna uma lista com todos os livros cadastrados.
 
 ✅ Consultar um livro por ID: Retorna as informações de um livro específico com base no seu ID.
